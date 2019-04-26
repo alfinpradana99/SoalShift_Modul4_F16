@@ -9,6 +9,7 @@ Himawan 16 - 0143
 
 
 <li> nomor 1
+  
   Pada Soal ini diminta untuk melakukan enkripsi dengan menggunakan caesar cipher, dengan expansi dan dirandom. Dengan memiliki karakter list sendiri yaitu:
   qE1~ YMUR2"`hNIdPzi%^t@(Ao:=CQ,nx4S[7mHFye#aT6+v)DfKL$r?bkOGB>}!9_wV']jcp5JZ&Xl|\8s;g<{3.u*W-0
 Dan memiliki shift sebanyak 17.
