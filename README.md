@@ -24,6 +24,14 @@ Langkah-langkah :
   
 <li> nomor 3
   
+  Pada soal ini diminta untuk menghapus semua file yang memiliki syarat owner bernama 'chipset' atau 'ic_controller' dan group name bernama 'rusak' dan yang reakhir tidak bisa dibaca.
+  lalu nama nama file, group ID, owner ID, dan waktu terakhir diakses dalam file “filemiris.txt” (format waktu bebas, namun harus memiliki jam menit detik dan tanggal) lalu menghapus “file bahaya” tersebut.
+  
+  Langkah-langkah :
+ 1. check apakah file tersebut memnuhi ketiga syarat yang ada secara bersamaan
+ 2. lalu jika memenuhi syarat catat nama, group id, owner id, dan waktu terkahir diakses
+ 3. lalu hapus file tersebut
+
 <li> nomor 4
   
   Pada soal ini diminta untuk membuat folder YOUTUBER/ dalam mounted folder AFSHiaAP, lalu apabila kita membuat file di dalamnya, maka file baru akan bernama (nama file).iz1, dengan permission 640. Jika folder baru maka permission dari folder baru adalah 750.
